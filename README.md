@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SachinChauhan1302
-- 👀 I’m interested in code with music..
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in video editing , table tennis and food.
+- 🌱 I’m currently learning kubernetes...
+- 💞️ I’m looking to collaborate on technologies related to cloud and devops.
 - 📫 How to reach me ...
 
 <!---
