@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SachinChauhan
-- 👀 I’m interested in video editing , table tennis and food.
-- 🌱 I’m currently learning kubernetes.
+- 👀 I’m interested in playing keyboard, table tennis and food.
+- 🌱 I’m currently learning working with LLMs.
 - 💞️ I’m looking to collaborate on technologies related to devops and cloud.
 - 📫 How to reach me ...
 -     > sachinchauhan90@hotmail.com
